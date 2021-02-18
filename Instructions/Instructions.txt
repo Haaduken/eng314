@@ -1,0 +1,29 @@
+TOPIC
+How to set up your first ubuntu machine
+
+Intro
+What is ubuntu
+Why might you want to get it
+layout basic steps
+this is a windows guide
+Materials needed 
+    - flash drive
+    - computer with networking
+    - about 30 gbs free of hardrive/ssd storage
+
+step 1
+download ubuntu 20.04
+    go to ubuntu.com
+    click download now
+    put .iso file onto flash drive
+
+step 2
+boot into drive
+    first make sure BIOS set to be able to boot to drive
+    restart after
+    spam the shit out of f-12, f2, esc, and f10 
+    select flash drive option
+
+step 3
+welcome to ubuntu
+    
