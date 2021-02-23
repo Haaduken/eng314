@@ -26,4 +26,15 @@ boot into drive
 
 step 3
 welcome to ubuntu
-    
+    what are you immeditely looking at
+    live boot vs install
+    use case for both
+
+step 4
+    sudo apt update
+    sudo apt full-upgrade
+    sudo apt auto-remove
+
+step 5
+    Showing the basic software and what it parallels from windows
+    terminal basics
