@@ -25,12 +25,13 @@ boot into drive
     select flash drive option
 
 step 3
-welcome to ubuntu
+First Boot
     what are you immeditely looking at
     live boot vs install
     use case for both
 
 step 4
+Second Boot
     sudo apt update
     sudo apt full-upgrade
     sudo apt auto-remove
