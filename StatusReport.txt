@@ -1,0 +1,10 @@
+Date>		27/4/2021
+
+Project Name>	InGen's Usability Study on cdc.gov
+
+By>		Haadi Majeed
+
+Purpose> 	The purpose of our usability study is to provide feedback to
+the developers of the center of disease control's website to make it more
+accessable and improve their reach to assist in their goal of widespread
+medical knowledge for the latest devleopments.
