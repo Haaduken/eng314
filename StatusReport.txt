@@ -1,10 +1,24 @@
-Date>		27/4/2021
+Date>
+	27/4/2021
 
-Project Name>	InGen's Usability Study on cdc.gov
+Project Name>
+	InGen's Usability Study on cdc.gov
 
-By>		Haadi Majeed
+By>
+	Haadi Majeed
 
-Purpose> 	The purpose of our usability study is to provide feedback to
+Purpose>
+	The purpose of our usability study is to provide feedback to
 the developers of the center of disease control's website to make it more
 accessable and improve their reach to assist in their goal of widespread
-medical knowledge for the latest devleopments.
+medical knowledge for the latest devleopments. 
+
+Completed Objectives>
+	-Establish what to be examined on the website
+	-
+
+Agenda>
+	-Continue working on paper
+	-Ideally final draft to review before submission by the 3rd
+	-Final meeting on/before 4th prior to submission
+
